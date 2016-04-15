@@ -1,0 +1,7 @@
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\bin\MyOAuth.ResourceServer.dll
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\bin\MyOAuth.ResourceServer.pdb
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\obj\Debug\MyOAuth.ResourceServer.dll
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\obj\Debug\MyOAuth.ResourceServer.pdb
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\bin\MyOAuth.Common.dll
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\bin\MyOAuth.Common.pdb
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.ResourceServer\obj\Debug\MyOAuth.ResourceServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.Common\bin\Debug\MyOAuth.Common.dll
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.Common\bin\Debug\MyOAuth.Common.pdb
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.Common\obj\Debug\MyOAuth.Common.dll
+D:\Dgl\______Jinher\MyOAuth\MyOAuth.Common\obj\Debug\MyOAuth.Common.pdb
